@@ -1,0 +1,17 @@
+body{
+    background: #337CA0;
+    font-family: Calibri;
+}
+h1{
+    font-size: 25px;
+    color:#ffffff;
+p{
+    color: #FFFC31;
+    font-size: 18px;
+    text-align: justify;
+}
+#destacado{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}

@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+    font-family: "calibri light";
+}
+.contenedor{
+    background: tomato;
+    width: 70%;
+    margin: auto;
+}
+header{
+    background: blue;
+    height: 400px;
+    background-image: url("../img/colibri.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+main{
+    background: white;
+    padding: 20px 30px;
+
+}
+
+main .foto{
+    width: 150px;
+    height: 150px;
+    background-color: teal;
+    border-radius: 50%;
+    margin: -90px 0 20px 0;
+    border: 6px solid #FFFFFF;
+}
+main .foto img{
+    width: 150px;
+    border-radius: 50%;
+}
+
+footer{
+    background: teal;
+    text-align: center;
+    padding: 25px;
+    color: #FFFFFF;
+}
